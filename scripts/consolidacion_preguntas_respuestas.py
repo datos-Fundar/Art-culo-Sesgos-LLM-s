@@ -99,10 +99,10 @@ if __name__ == '__main__':
     respuestas['P31ST_E'] = respuestas['P31ST_A']
     respuestas['P48ST']   = respuestas['P48ST_1']
 
-    with open('respuestas.pickle', 'wb') as handle:
+    with open('./datasets/respuestas.pickle', 'wb') as handle:
         pickle.dump(respuestas, handle, 
                     protocol=pickle.HIGHEST_PROTOCOL)
 
-    with open('preguntas_seleccionadas.pickle', 'wb') as handle:
+    with open('./datasets/preguntas_seleccionadas.pickle', 'wb') as handle:
         pickle.dump(preguntas_seleccionadas, handle, 
                     protocol=pickle.HIGHEST_PROTOCOL)
