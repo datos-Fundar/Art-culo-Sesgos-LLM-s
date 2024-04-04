@@ -1,4 +1,4 @@
-# Artículo Sesgos LLMs
+![](https://fund.ar/wp-content/uploads/2024/03/FU_Portada_Sesgos.jpg)
 
 Este repositorio forma parte del documento de trabajo [Sesgos algorítmicos y representación social en los modelos de lenguaje generativo (LLM)](https://fund.ar/publicacion/sesgos-algoritmicos-y-representacion-social-en-los-modelos-de-lenguaje-generativo/) publicado por el [equipo de Datos de Fundar](https://fund.ar/area/datos/). Este artículo se fundamenta en los hallazgos presentes en este [artículo](https://arxiv.org/pdf/2303.17548.pdf) publicado por la Universidad de Stanford que utilizó el conjunto de datos [OpinionQA](https://paperswithcode.com/dataset/opinionqa) y la metodología para evaluar Modelos de Lenguaje (LMs) mediante encuestas de opinión pública. 
 
