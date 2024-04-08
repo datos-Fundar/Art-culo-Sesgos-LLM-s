@@ -8,7 +8,7 @@
 
 # GPT
 
-# lpop_distances <- read.csv('./datasets/lpop_distances.csv')
+# lpop_distances <- read.csv('./outputs/lpop_distances.csv')
 
 lmodel <- lm((gpt_distance_norm) ~ q2 + q1tb + ur1new + edr + conocim   , data = lpop_distances)
 summary(lmodel)
