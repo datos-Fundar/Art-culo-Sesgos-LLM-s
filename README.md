@@ -6,6 +6,16 @@ Aplicamos un enfoque similar para explorar cómo los LMs reflejan y se alinean c
 
 El propósito de este repositorio es permitir a cualquier persona replicar el trabajo realizado. 
 
-## Código 
+## Organización del proyecto:
 
-Incluimos ejemplos de uso en lenguaje `Python` en el siguiente _Jupyter Notebook_: 
+En [`datasets`](./datasets/) se encuentran los datos de Latinobarómetro utilizados para promptear a los modelos y evaluar las respuestas.
+
+En [`outputs`](./outputs/) se encuentran los resultados de los distintos scripts y notebooks. (A destacar, los gráficos generados y las respuestas consolidadas de cada modelo).
+
+El análisis está repartido entre las Jupyter Notebooks y los [scripts](./scripts/).
+En particular:
+  - `bard.ipynb`, `chatgpt.ipynb`, y `cohere.ipynb` contienen las notebooks donde se promptean a los correspondientes modelos con las preguntas seleccionadas.
+  - Las notebooks `distances_` contienen el cálculo de las distancias de opinión correspondientes a cada modelo.
+  - En `scripts/multivariado.R` se realizan los modelos de regresión lineal ajustados a través de OLS para el análisis multivariado.
+
+    
