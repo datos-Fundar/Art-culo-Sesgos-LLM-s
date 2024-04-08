@@ -14,6 +14,8 @@ latin_distances$s13[latin_distances$s13 == -5] <- NA #Reemplazo "'No sabe / No c
 #s16 estudios
 #s17 estudios padres
 
+# latin_distances <- read.csv('./outputs/latin_distances.csv')
+
 lmodel <- lm((gpt_distance_norm) ~ edad+sexo+ p18st +s16+s13+s17+p46stgbs , data = latin_distances)
 summary(lmodel)
 predicted_values <- predict(lmodel)
