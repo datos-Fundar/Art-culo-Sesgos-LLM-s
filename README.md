@@ -6,6 +6,11 @@ Aplicamos un enfoque similar para explorar cómo los LMs reflejan y se alinean c
 
 El propósito de este repositorio es permitir a cualquier persona replicar el trabajo realizado.
 
+> [!NOTE]
+> Desde el día en que se realizó este trabajo hasta la fecha, las interfaces, las APIs,
+> y los modelos pudieron haber cambiado. Por ende, los resultados pueden variar o ser
+> filtrados de una manera que no está considerada en este estudio.
+
 ## Organización del proyecto:
 
 En [`datasets`](./datasets/) se encuentran los datos de Latinobarómetro utilizados para promptear a los modelos y evaluar las respuestas.
@@ -19,5 +24,16 @@ En particular:
   - En `scripts/` se realizan los modelos de regresión lineal ajustados a través de OLS para el análisis multivariado. Cada script analiza un subset diferente de datos.
   - En `etc/` hay Jupyter Notebooks que contienen un analisis exploratorio de los datasets.
   
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+  &nbsp;
+  <a href="https://fund.ar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/datos-Fundar/fundartools/assets/86327859/6ef27bf9-141f-4537-9d78-e16b80196959">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/datos-Fundar/fundartools/assets/86327859/aa8e7c72-4fad-403a-a8b9-739724b4c533">
+    <img src="fund.ar"></img>
+  </picture>
+</a>
 
-    
+</div>
