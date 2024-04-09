@@ -4,7 +4,7 @@ Este repositorio forma parte del documento de trabajo [Sesgos algorítmicos y re
 
 Aplicamos un enfoque similar para explorar cómo los LMs reflejan y se alinean con las opiniones de diversos grupos demográficos en el contexto argentino. A partir de preguntas adaptadas de encuestas de [Latinobarómetro](https://www.latinobarometro.org/lat.jsp), abordamos temas relevantes para el panorama sociopolítico argentino y analizamos el alineamiento de las respuestas de los LMs con diferentes segmentos de la población. Nuestro objetivo fue revelar posibles sesgos y discrepancias, proporcionando una comprensión matizada de cómo estos modelos interpretan opiniones en el contexto específico de Argentina.
 
-El propósito de este repositorio es permitir a cualquier persona replicar el trabajo realizado. 
+El propósito de este repositorio es permitir a cualquier persona replicar el trabajo realizado.
 
 ## Organización del proyecto:
 
@@ -16,6 +16,8 @@ El análisis está repartido entre las Jupyter Notebooks y los [scripts](./scrip
 En particular:
   - `bard.ipynb`, `chatgpt.ipynb`, y `cohere.ipynb` contienen las notebooks donde se promptean a los correspondientes modelos con las preguntas seleccionadas.
   - Las notebooks `distances_` contienen el cálculo de las distancias de opinión correspondientes a cada modelo.
-  - En `scripts/multivariado.R` se realizan los modelos de regresión lineal ajustados a través de OLS para el análisis multivariado.
+  - En `scripts/` se realizan los modelos de regresión lineal ajustados a través de OLS para el análisis multivariado. Cada script analiza un subset diferente de datos.
+  - En `etc/` hay Jupyter Notebooks que contienen un analisis exploratorio de los datasets.
+  
 
     
