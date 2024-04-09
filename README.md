@@ -23,6 +23,10 @@ En particular:
   - Las notebooks `distances_` contienen el cálculo de las distancias de opinión correspondientes a cada modelo.
   - En `scripts/` se realizan los modelos de regresión lineal ajustados a través de OLS para el análisis multivariado. Cada script analiza un subset diferente de datos.
   - En `etc/` hay Jupyter Notebooks que contienen un analisis exploratorio de los datasets.
+
+
+----
+**Este documento es parte de la serie [_Inteligencia Artificial_](https://fund.ar/serie/inteligencia-artificial)**
   
 <div>&nbsp;</div>
 <div>&nbsp;</div>
