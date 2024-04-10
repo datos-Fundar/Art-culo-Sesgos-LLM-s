@@ -1,7 +1,6 @@
 <div>
   <a href="https://fund.ar/publicacion/sesgos-algoritmicos-y-representacion-social-en-los-modelos-de-lenguaje-generativo/">
   <picture>
-    <source srcset="https://camo.githubusercontent.com/1fe06bdbabc85aac6fd044da12aef8f8931c0b40fbb423f36f11744a2cfa0f45/68747470733a2f2f66756e642e61722f77702d636f6e74656e742f75706c6f6164732f323032342f30332f46555f506f72746164615f536573676f732e6a7067">
     <img src="https://camo.githubusercontent.com/1fe06bdbabc85aac6fd044da12aef8f8931c0b40fbb423f36f11744a2cfa0f45/68747470733a2f2f66756e642e61722f77702d636f6e74656e742f75706c6f6164732f323032342f30332f46555f506f72746164615f536573676f732e6a7067"></img>
   </picture>
 </a>
