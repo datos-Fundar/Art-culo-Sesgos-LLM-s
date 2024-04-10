@@ -1,11 +1,4 @@
-<div>
-  <a href="https://fund.ar/publicacion/sesgos-algoritmicos-y-representacion-social-en-los-modelos-de-lenguaje-generativo/">
-  <picture>
-    <img src="https://camo.githubusercontent.com/1fe06bdbabc85aac6fd044da12aef8f8931c0b40fbb423f36f11744a2cfa0f45/68747470733a2f2f66756e642e61722f77702d636f6e74656e742f75706c6f6164732f323032342f30332f46555f506f72746164615f536573676f732e6a7067"></img>
-  </picture>
-</a>
-&nbsp;
-</div>
+[![Alt text](https://fund.ar/wp-content/uploads/2024/03/FU_Portada_Sesgos.jpg)](https://fund.ar/publicacion/sesgos-algoritmicos-y-representacion-social-en-los-modelos-de-lenguaje-generativo/)
 
 Este repositorio forma parte del documento de trabajo [Sesgos algorítmicos y representación social en los modelos de lenguaje generativo (LLM)](https://fund.ar/publicacion/sesgos-algoritmicos-y-representacion-social-en-los-modelos-de-lenguaje-generativo/) publicado por el [equipo de Datos de Fundar](https://fund.ar/area/datos/). Este artículo se fundamenta en los hallazgos presentes en este [artículo](https://arxiv.org/pdf/2303.17548.pdf) publicado por la Universidad de Stanford que utilizó el conjunto de datos [OpinionQA](https://paperswithcode.com/dataset/opinionqa) y la metodología para evaluar Modelos de Lenguaje (LMs) mediante encuestas de opinión pública. 
 
