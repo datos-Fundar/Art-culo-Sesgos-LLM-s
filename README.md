@@ -3,6 +3,7 @@
 
 
 [![DOI](https://zenodo.org/badge/747826013.svg)](https://zenodo.org/doi/10.5281/zenodo.11186044)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
 Este repositorio forma parte del documento de trabajo [Sesgos algorítmicos y representación social en los modelos de lenguaje generativo (LLM)](https://fund.ar/publicacion/sesgos-algoritmicos-y-representacion-social-en-los-modelos-de-lenguaje-generativo/) publicado por el [equipo de Datos de Fundar](https://fund.ar/area/datos/). Este artículo se fundamenta en los hallazgos presentes en este [artículo](https://arxiv.org/pdf/2303.17548.pdf) publicado por la Universidad de Stanford que utilizó el conjunto de datos [OpinionQA](https://paperswithcode.com/dataset/opinionqa) y la metodología para evaluar Modelos de Lenguaje (LMs) mediante encuestas de opinión pública. 
