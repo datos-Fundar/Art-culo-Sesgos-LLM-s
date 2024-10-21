@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Si usás este repositorio, por favor citalo usando estos datos."
+license: CC-BY-NC-SA-4.0
+type: software
+date-released: "2024-04-09"
+title: "Sesgos algorítmicos y representación social en los modelos de lenguaje generativo"
+abstract: >-
+  Este repositorio forma parte del documento de trabajo Sesgos algorítmicos y representación social en los modelos de lenguaje generativo (LLM) publicado por el equipo de Datos de Fundar. 
+  Este artículo se fundamenta en los hallazgos presentes en este artículo publicado por la Universidad de Stanford que utilizó el conjunto de datos OpinionQA y la metodología para evaluar 
+  Modelos de Lenguaje (LMs) mediante encuestas de opinión pública.
+  
+
+repository-code: "https://github.com/datos-Fundar/sesgos_LLM"
+url: "https://fund.ar/publicacion/sesgos-algoritmicos-y-representacion-social-en-los-modelos-de-lenguaje-generativo/"
+
+identifiers:
+  - description: "Sesgos algorítmicos y representación social en los modelos de lenguaje generativo"
+    type: doi
+    value: 10.5281/zenodo.11186045
+authors:
+  - given-names: "Juan Manuel"
+    family-names: "Ortiz de Zárate"
+    affiliation: "Fundar"
+  - given-names: "Juan Manuel"
+    family-names: "Dias"
+    affiliation: "Fundar"
+  - given-names: "Alejandro"
+    family-names: "Avenburg"
+    affiliation: "Fundar"
+  - given-names: "Joan Imanol"
+    family-names: "Gonzalez Quiroga"
+    affiliation: "Fundar"
+    
